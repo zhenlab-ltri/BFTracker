@@ -1,6 +1,6 @@
 # BFTracker
 
-Behavioural Tracker Analysis for bright field full field images
+Behavioural Tracker Analysis for bright field full field images. (See branch v2-L1Worms for adjusted code for smaller, more transparent L1 worms)
 
 Use virtural stack taken by Realtimetracker_09 or after bright field full field images (needs higer than imagej 1.44k)
 1. open virtual stack
@@ -15,3 +15,4 @@ Use virtural stack taken by Realtimetracker_09 or after bright field full field 
 could be detectable omegaturn by combination of reverse/deepbend/touching.
 just transferrig .jar file made by eclipse to plugin folder of imagej didn't work
 transfer /bin/*.class to plugin/BFT did work.
+
